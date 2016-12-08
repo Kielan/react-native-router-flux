@@ -3,6 +3,7 @@ import {
   Image,
   View,
 } from 'react-native';
+//import Tabs from 'react-native-tabs';
 import Tabs from 'react-native-tabs';
 import DefaultRenderer from './DefaultRenderer';
 import Actions from './Actions';
