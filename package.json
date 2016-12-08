@@ -1,6 +1,6 @@
 {
   "name": "react-native-router-flux-custom-tabs",
-  "version": "3.37.1",
+  "version": "3.37.2",
   "description": "React Native Router using Flux architecture this is my fork for testing",
   "repository": {
     "type": "git",
